@@ -1,4 +1,4 @@
-# Java - Problem - FizzBuzz-Solution
+# Java Problem - FizzBuzz-Solution
 
 The "Fizz-Buzz test" is an common programming interview question based on the concept of a game where a group of children sit 
 around in a group and say each number in sequence, except if the number is a multiple of three (in which case they say “Fizz”) 
